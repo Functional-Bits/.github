@@ -1,7 +1,2 @@
 # Functional Bits  
-[Functional Bits](https://functionalbits.io) is a site dedicated to making you a better developer!  
-
-## Content  
-* Tech Blogs  
-* Automated Newsletter  
-* Courses
+[Functional Bits](https://functionalbits.io) is a site dedicated to making you a better developer!
